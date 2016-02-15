@@ -3,7 +3,7 @@
 <https://raw.githubusercontent.com/JeffreyWei/Calendar4iOS/master/HolidaysInChina>
 或订阅日历，订阅地址
 	
-	webcal://p30-calendars.icloud.com/published/2/yw_yM8prSymJqsGv4gmJP30ymsCx4FFL76qZBfZay2kyAG7KwlC869qtn3wfw2-b1-hfX89ecx6-tgLXf6SiHeE3cmY8hvHaWqgqmcHsXI4)
+	webcal://p30-calendars.icloud.com/published/2/yw_yM8prSymJqsGv4gmJP30ymsCx4FFL76qZBfZay2kyAG7KwlC869qtn3wfw2-b1-hfX89ecx6-tgLXf6SiHeE3cmY8hvHaWqgqmcHsXI4
 ### 20160215
 	
 * 重命名为`HolidaysInChina`
